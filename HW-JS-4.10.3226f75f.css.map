@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["HW-JS-4.10.3226f75f.css","src/style.css"],"sourcesContent":[".test {\n  color: #0ff;\n  text-align: center;\n  font-size: 40px;\n}\n/*# sourceMappingURL=HW-JS-4.10.3226f75f.css.map */\n",".test{\r\n    color: aqua;\r\n    font-size: 40px;\r\n    text-align: center;\r\n}"],"names":[],"version":3,"file":"HW-JS-4.10.3226f75f.css.map"}
