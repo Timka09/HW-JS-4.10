@@ -1,0 +1,41 @@
+.container {
+  text-align: center;
+  flex-direction: column;
+  justify-self: center;
+  display: flex;
+}
+
+.task {
+  color: green;
+  font-size: large;
+}
+
+.test {
+  color: #0ff;
+  font-size: 40px;
+}
+
+.word {
+  color: #ff0;
+  font-size: 40px;
+}
+
+.box2 {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  margin-bottom: 50px;
+  margin-left: 67px;
+  transition: left 2s;
+  transform: scale(1);
+}
+
+.btn, .start-btn {
+  color: #fff;
+  background-color: #000;
+  border: none;
+  border-radius: 20px;
+  height: 30px;
+  margin-top: 5px;
+}
+/*# sourceMappingURL=HW-JS-4.10.2cdaf7bc.css.map */

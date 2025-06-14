@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+}
+.task{
+    color: green;
+    font-size: large;
+}
+.test{
+    color: aqua;
+    font-size: 40px;
+}
+.word{
+    font-size: 40px;
+    color: yellow;
+}
+.box2 {
+    margin-left: 67px;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    transition: left 2s ease;
+    transform: scale(1);
+    margin-bottom: 50px;
+}
+.btn, .start-btn{
+    margin-top: 5px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
